@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../zeroOne/boxes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web page"
+	}
+}
